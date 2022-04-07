@@ -1,6 +1,6 @@
 # Election_Analysis
 ## Overview of Project
--Tom, A Colordo Board of Election employee gave me tasks to complete the election audit for a local congressional election.
+- Tom, A Colordo Board of Election employee gave me tasks to complete the election audit for a local congressional election.
 1. Calculate total of votes cast.
 2. Get a complete list of candidates who received votes.
 3. Calculate the total numbers of votes each candidate received.
@@ -8,8 +8,8 @@
 5. Determine the winner of election based on popular votes.
 
 ## Resources
--Data Source: Election_Results.csv
--Software: Python 3.10, Visual Studio Code
+- Data Source: Election_Results.csv
+- Software: Python 3.10, Visual Studio Code
 
 ## Summary
 - The analysis of the election showed that:
